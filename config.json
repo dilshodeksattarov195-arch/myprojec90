@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatoruecrypt",
+        "uuid": 348030,
+        "checksum": "s5904"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
